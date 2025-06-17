@@ -1,0 +1,244 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "rating": 4.69,
+      "thumbnail": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg"
+    },
+    {
+      "id": "2",
+      "title": "Samsung Galaxy S21",
+      "description": "The flagship smartphone with powerful performance",
+      "price": 799,
+      "rating": 4.7,
+      "thumbnail": "https://images.pexels.com/photos/4042803/pexels-photo-4042803.jpeg"
+    },
+    {
+      "id": "3",
+      "title": "Google Pixel 6",
+      "description": "Smart, smooth and secure Android experience",
+      "price": 699,
+      "rating": 4.5,
+      "thumbnail": "https://images.pexels.com/photos/1038915/pexels-photo-1038915.jpeg"
+    },
+    {
+      "id": "4",
+      "title": "OnePlus 9 Pro",
+      "description": "Flagship killer with ultra-fast charging",
+      "price": 729,
+      "rating": 4.6,
+      "thumbnail": "https://images.pexels.com/photos/845451/pexels-photo-845451.jpeg"
+    },
+    {
+      "id": "5",
+      "title": "Sony Xperia 5",
+      "description": "Compact design with pro camera features",
+      "price": 649,
+      "rating": 4.4,
+      "thumbnail": "https://images.pexels.com/photos/6078121/pexels-photo-6078121.jpeg"
+    },
+    {
+      "id": "6",
+      "title": "Xiaomi Mi 11",
+      "description": "Great specs at an affordable price",
+      "price": 599,
+      "rating": 4.3,
+      "thumbnail": "https://images.pexels.com/photos/6078120/pexels-photo-6078120.jpeg"
+    },
+    {
+      "id": "7",
+      "title": "Realme GT",
+      "description": "Performance beast with 120Hz display",
+      "price": 459,
+      "rating": 4.1,
+      "thumbnail": "https://images.pexels.com/photos/6078125/pexels-photo-6078125.jpeg"
+    },
+    {
+      "id": "8",
+      "title": "Motorola Edge",
+      "description": "Edge screen experience with clean Android",
+      "price": 499,
+      "rating": 4.0,
+      "thumbnail": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg"
+    },
+    {
+      "id": "9",
+      "title": "Nokia G50",
+      "description": "Affordable 5G with long battery life",
+      "price": 329,
+      "rating": 3.9,
+      "thumbnail": "https://images.pexels.com/photos/116703/pexels-photo-116703.jpeg"
+    },
+    {
+      "id": "10",
+      "title": "Huawei P40",
+      "description": "Brilliant camera but no Google services",
+      "price": 599,
+      "rating": 4.2,
+      "thumbnail": "https://images.pexels.com/photos/744464/pexels-photo-744464.jpeg"
+    },
+    {
+      "id": "11",
+      "title": "Asus ROG Phone 5",
+      "description": "Gaming phone with top-notch specs",
+      "price": 999,
+      "rating": 4.8,
+      "thumbnail": "https://images.pexels.com/photos/6078122/pexels-photo-6078122.jpeg"
+    },
+    {
+      "id": "12",
+      "title": "iPhone SE 2022",
+      "description": "Small and powerful with A15 Bionic chip",
+      "price": 429,
+      "rating": 4.3,
+      "thumbnail": "https://images.pexels.com/photos/6078123/pexels-photo-6078123.jpeg"
+    },
+    {
+      "id": "13",
+      "title": "Samsung Galaxy Z Flip",
+      "description": "Folding phone with style",
+      "price": 999,
+      "rating": 4.5,
+      "thumbnail": "https://images.pexels.com/photos/6078124/pexels-photo-6078124.jpeg"
+    },
+    {
+      "id": "14",
+      "title": "Google Pixel 5a",
+      "description": "Pure Android with excellent battery",
+      "price": 449,
+      "rating": 4.4,
+      "thumbnail": "https://images.pexels.com/photos/6078126/pexels-photo-6078126.jpeg"
+    },
+    {
+      "id": "15",
+      "title": "iPhone 13 Pro",
+      "description": "Apple's top-tier performance device",
+      "price": 999,
+      "rating": 4.9,
+      "thumbnail": "https://images.pexels.com/photos/1462637/pexels-photo-1462637.jpeg"
+    },
+    {
+      "id": "16",
+      "title": "OnePlus Nord 2",
+      "description": "Mid-range king with strong specs",
+      "price": 399,
+      "rating": 4.3,
+      "thumbnail": "https://images.pexels.com/photos/1432675/pexels-photo-1432675.jpeg"
+    },
+    {
+      "id": "17",
+      "title": "Redmi Note 11",
+      "description": "Budget beast with AMOLED display",
+      "price": 299,
+      "rating": 4.2,
+      "thumbnail": "https://images.pexels.com/photos/5380665/pexels-photo-5380665.jpeg"
+    },
+    {
+      "id": "18",
+      "title": "Vivo V21",
+      "description": "Great selfies and sleek design",
+      "price": 369,
+      "rating": 4.1,
+      "thumbnail": "https://images.pexels.com/photos/6078127/pexels-photo-6078127.jpeg"
+    },
+    {
+      "id": "19",
+      "title": "Realme 9 Pro",
+      "description": "Mid-range with 5G and solid battery",
+      "price": 349,
+      "rating": 4.0,
+      "thumbnail": "https://images.pexels.com/photos/1312180/pexels-photo-1312180.jpeg"
+    },
+    {
+      "id": "20",
+      "title": "Oppo Reno 6",
+      "description": "Stylish phone with decent performance",
+      "price": 389,
+      "rating": 4.1,
+      "thumbnail": "https://images.pexels.com/photos/5668853/pexels-photo-5668853.jpeg"
+    },
+    {
+      "id": "21",
+      "title": "Samsung A52",
+      "description": "Balanced device with good display",
+      "price": 379,
+      "rating": 4.2,
+      "thumbnail": "https://images.pexels.com/photos/6078128/pexels-photo-6078128.jpeg"
+    },
+    {
+      "id": "22",
+      "title": "iPhone XR",
+      "description": "Old but still gold in 2025",
+      "price": 429,
+      "rating": 4.3,
+      "thumbnail": "https://images.pexels.com/photos/1120500/pexels-photo-1120500.jpeg"
+    },
+    {
+      "id": "23",
+      "title": "Huawei Nova 8i",
+      "description": "Stylish and fast charging phone",
+      "price": 349,
+      "rating": 4.0,
+      "thumbnail": "https://images.pexels.com/photos/6078129/pexels-photo-6078129.jpeg"
+    },
+    {
+      "id": "24",
+      "title": "Honor X8",
+      "description": "Slim phone with big display",
+      "price": 299,
+      "rating": 3.8,
+      "thumbnail": "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg"
+    },
+    {
+      "id": "25",
+      "title": "Black Shark 4",
+      "description": "Gaming phone with mechanical triggers",
+      "price": 499,
+      "rating": 4.6,
+      "thumbnail": "https://images.pexels.com/photos/6078130/pexels-photo-6078130.jpeg"
+    },
+    {
+      "id": "26",
+      "title": "Sony Xperia 1 II",
+      "description": "Cinema screen and pro-level camera",
+      "price": 899,
+      "rating": 4.5,
+      "thumbnail": "https://images.pexels.com/photos/6078131/pexels-photo-6078131.jpeg"
+    },
+    {
+      "id": "27",
+      "title": "Fairphone 4",
+      "description": "Ethical and repairable smartphone",
+      "price": 649,
+      "rating": 4.2,
+      "thumbnail": "https://images.pexels.com/photos/2711190/pexels-photo-2711190.jpeg"
+    },
+    {
+      "id": "28",
+      "title": "LG Velvet",
+      "description": "Elegant phone with dual screen option",
+      "price": 479,
+      "rating": 4.1,
+      "thumbnail": "https://images.pexels.com/photos/344070/pexels-photo-344070.jpeg"
+    },
+    {
+      "id": "29",
+      "title": "HTC U20",
+      "description": "HTC's comeback with 5G support",
+      "price": 389,
+      "rating": 4.0,
+      "thumbnail": "https://images.pexels.com/photos/1036808/pexels-photo-1036808.jpeg"
+    },
+    {
+      "id": "30",
+      "title": "Meizu 18",
+      "description": "Compact flagship with no bloatware",
+      "price": 599,
+      "rating": 4.4,
+      "thumbnail": "https://images.pexels.com/photos/6078132/pexels-photo-6078132.jpeg"
+    }
+  ]
+}
