@@ -7,7 +7,7 @@ const retriveProducts = async ({ queryKey }) => {
   return response.data;
 };
 
-const ProductList = () => {
+const ProductList = ({ setshowDetails }) => {
   const {
     data: products,
     isLoading,
@@ -38,6 +38,9 @@ const ProductList = () => {
                 className="object-cover h-64 w-96 rounded-sm"
               />
               <p className="text-xl my-3">{item.title}</p>
+              <button onClick={() => setshowDetails(item.id)}>
+                Show Details
+              </button>
             </li>
           ))}
       </ul>
