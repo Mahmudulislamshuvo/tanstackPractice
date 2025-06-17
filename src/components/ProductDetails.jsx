@@ -9,7 +9,7 @@ const retriveProducts = async ({ queryKey }) => {
   return response.data;
 };
 
-const ProductDetails = ({ id }) => {
+const ProductDetails = ({ id = 1 }) => {
   const {
     data: product,
     error,

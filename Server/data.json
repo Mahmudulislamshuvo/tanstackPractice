@@ -61,7 +61,7 @@
       "title": "Motorola Edge",
       "description": "Edge screen experience with clean Android",
       "price": 499,
-      "rating": 4.0,
+      "rating": 4,
       "thumbnail": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg"
     },
     {
@@ -149,7 +149,7 @@
       "title": "Realme 9 Pro",
       "description": "Mid-range with 5G and solid battery",
       "price": 349,
-      "rating": 4.0,
+      "rating": 4,
       "thumbnail": "https://images.pexels.com/photos/1312180/pexels-photo-1312180.jpeg"
     },
     {
@@ -181,7 +181,7 @@
       "title": "Huawei Nova 8i",
       "description": "Stylish and fast charging phone",
       "price": 349,
-      "rating": 4.0,
+      "rating": 4,
       "thumbnail": "https://images.pexels.com/photos/6078129/pexels-photo-6078129.jpeg"
     },
     {
@@ -229,16 +229,8 @@
       "title": "HTC U20",
       "description": "HTC's comeback with 5G support",
       "price": 389,
-      "rating": 4.0,
+      "rating": 4,
       "thumbnail": "https://images.pexels.com/photos/1036808/pexels-photo-1036808.jpeg"
-    },
-    {
-      "id": "30",
-      "title": "Meizu 18",
-      "description": "Compact flagship with no bloatware",
-      "price": 599,
-      "rating": 4.4,
-      "thumbnail": "https://images.pexels.com/photos/6078132/pexels-photo-6078132.jpeg"
     }
   ]
 }

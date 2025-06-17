@@ -33,8 +33,12 @@ const ProductList = ({ setshowDetails }) => {
               className="flex flex-col items-center m-2 border rounded-sm"
             >
               <img
-                src={item.thumbnail}
-                alt={item.title}
+                src={
+                  item.thumbnail
+                    ? item.thumbnail
+                    : "https://via.placeholder.com/150"
+                }
+                alt={item.title ? item.title : "Product Image"}
                 className="object-cover h-64 w-96 rounded-sm"
               />
               <p className="text-xl my-3">{item.title}</p>
