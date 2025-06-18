@@ -231,6 +231,14 @@
       "price": 389,
       "rating": 4,
       "thumbnail": "https://images.pexels.com/photos/1036808/pexels-photo-1036808.jpeg"
+    },
+    {
+      "id": "5c76cf9f-cc3f-4974-9952-f33ec34f2fb4",
+      "title": "werwe",
+      "description": "wer",
+      "price": 0,
+      "rating": 5,
+      "thumbnail": "wer"
     }
   ]
 }
